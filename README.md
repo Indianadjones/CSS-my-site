@@ -10,15 +10,10 @@ This is the portfolio website of Nelson Almeida, showcasing his personal and pro
 Table of Contents
 
 Description
-
 File Structure
-
 Usage
-
 Contact
-
 Description
-
 The portfolio website is designed to provide visitors with information about Nelson Almeida, his background, skills, and how to get in touch with him. It consists of the following sections:
 
 Top Container: Displays a cloud image, Nelson's name, a catchphrase, and a mountain image.
