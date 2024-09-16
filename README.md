@@ -3,7 +3,7 @@ Practicing a bit of HTML and CSS creating a webpage where it talks a bit about m
 
 Nelson Almeida Portfolio
 
-This is the portfolio website of Nelson Almeida, showcasing his personal and professional information, skills, and contact details.
+This is a webpage dedicated to my profile, showcasing my personal and professional information.
 
 
 
@@ -19,16 +19,16 @@ Table of Contents
 
 -Description
 
-The portfolio website is designed to provide visitors with information about Nelson Almeida, his background, skills, and how to get in touch with him. It consists of the following sections:
+The portfolio website is designed to provide visitors with information me, my background, my skills, and how to get in touch with me. It consists of the following sections:
 
 
-Top Container: Displays a cloud image, Nelson's name, a catchphrase, and a mountain image.
+Top Container: Displays a cloud image, name, a catchphrase, and a mountain image.
 
-Middle Container: This contains Nelson's profile information, including a profile picture, a brief introduction, and his skills.
+Middle Container: This contains  profile information, including a profile picture, a brief introduction, and my skills.
 
-Contact Me: Provides information on how to get in touch with Nelson and mentions various activities he's interested in.
+Contact Me: Provides information on how to contact me and mentions various activities I am interested in.
 
-Bottom Container: Includes links to Nelson's LinkedIn and Twitter profiles, as well as a placeholder for a personal website link. 
+Bottom Container: Includes links to my LinkedIn and Twitter profiles and a placeholder for a personal website link. 
 
 File Structure
 
@@ -36,4 +36,4 @@ index.html: The main HTML file containing the structure and content of the portf
 
 css/styles.css: The CSS file containing the styles for the HTML elements in the portfolio website.
 
-images/: Directory containing the cloud and mountain images used in the website.
+images/: A directory containing the cloud and mountain images used on the website.
